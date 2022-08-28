@@ -68,3 +68,9 @@
   font-size: 18px;
   margin-top: 20px;
 }
+
+.git-link {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
+}
