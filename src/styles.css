@@ -1,0 +1,70 @@
+.wrap.container {
+  margin-top: 15px;
+  padding: 15px;
+  border: 2px solid yellow;
+  font-family: "Roboto", sans-serif;
+  color: #939aa9;
+  font-size: 16px;
+  max-width: 540px;
+}
+.header {
+  margin: 15px auto;
+}
+
+.header .form-control {
+  max-width: 200px;
+  margin: 0 0 0 auto;
+  border-radius: 50px;
+  display: inline;
+}
+.find-btn {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  border-radius: 50px;
+  margin: 6px auto;
+  background-color: #8ec9f9;
+  color: #fff;
+  border: none;
+  padding: 2px 10px;
+}
+
+.green-btn {
+  background-color: forestgreen;
+}
+
+.main-forecast h1 {
+  color: #4eae53;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.main-forecast p {
+  font-size: 20px;
+  margin: 5px 0 0 0;
+  text-align: right;
+  color: #8ec9f9;
+  position: relative;
+}
+
+/* .main-forecast p .units {
+  position: relative;
+  top: -20px;
+  font-size: 15px;
+  text-decoration: none;
+} */
+.units {
+  text-decoration: none;
+  position: relative;
+  top: -5px;
+  font-size: px;
+  text-decoration: none;
+}
+.material-symbols-outlined.main-icon {
+  font-size: 100px;
+  color: yellow;
+}
+.cities {
+  font-size: 18px;
+  margin-top: 20px;
+}
